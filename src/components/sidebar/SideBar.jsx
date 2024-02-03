@@ -24,7 +24,7 @@ export default function SideBar() {
             </ul>
         </div>
         <div className="sidebarItem">
-            <span className='sidebarTitle' >GATEGORIES</span>
+            <span className='sidebarTitle' >FOLLOW US</span>
             <div className="sidebarSocial">
                 <i class="sidebarIcon fa-brands fa-square-facebook"></i>          
                 <i class="sidebarIcon fa-brands fa-square-pinterest"></i>
